@@ -18,6 +18,7 @@ HTML, CSS, JavaScript, TypeScript, JSON, C#, SQL Server, and big knowledge with 
 ## Hobbies
 
 🥇🥇🥇🥇🥇
+
 🏆Fighting it is my favorite i have more than 5 gold medals
 
 🧠 Learning new technologies
