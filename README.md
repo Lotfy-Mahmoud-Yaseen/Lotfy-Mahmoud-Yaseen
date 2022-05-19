@@ -1,11 +1,28 @@
 ### Hi there 👋
 
-<!--
-**Lotfy-Mahmoud-Yaseen/Lotfy-Mahmoud-Yaseen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Lotfy! 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
+My name is Lotfy Mahmoud . And I'm a Cybersecurity Fighter, and Software Development engineer too love to programming. And learning new technologies and teach others.
 
-- 🔭 I’m currently working on ... Future Graduation Projects
-- 🌱 I’m currently learning ... Some of Web technologies
-- 💬 Ask me about ... Anything
--->
+## 🛠 Skills as Security Fighter
+CCNA, CCNP, MCSA, AWS, Security+, Pentest+, CEH, Python, SQL
+
+## 🛠 Other Skills
+HTML, CSS, JavaScript, TypeScript, JSON, C#, SQL Server, and big knowledge with Software engineering concepts, Like Algorithms, Data Structures, Problem Solving
+
+## 🔗 Links
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LotfyMahmoudYa)
+
+
+## Hobbies
+
+🏆🥇🥇🥇🥇🥇 Fighting it is my favorite i have more than 5 gold medals
+
+🧠 Learning new technologies
+
+🤔 Thinking about new project ideas
+
+⚡️ Doing personal projects
+
+
