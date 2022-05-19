@@ -21,6 +21,8 @@ HTML, CSS, JavaScript, TypeScript, JSON, C#, SQL Server, and big knowledge with 
 
 🧠 Learning new technologies
 
+👨‍🎓 Teaching
+
 🤔 Thinking about new project ideas
 
 ⚡️ Doing personal projects
