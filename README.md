@@ -28,6 +28,6 @@ It is my favorite i have 5 gold medals 🥇🥇🥇🥇🥇
 
 🤔 Thinking about new project ideas
 
-⚡️ Doing personal projects
+⚡️ Doing my Graduation Project 🎓
 
 
