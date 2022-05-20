@@ -22,7 +22,7 @@ HTML, CSS, JavaScript, TypeScript, JSON, C#, SQL Server, and big knowledge with 
 It is my favorite i have 5 gold medals 🥇🥇🥇🥇🥇 
 
 
-🧠 Learning new technologies and teaching others
+🧠 Learning new technologies
 
 👨‍🎓 Teaching
 
