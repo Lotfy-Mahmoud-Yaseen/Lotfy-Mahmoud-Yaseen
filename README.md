@@ -15,11 +15,6 @@ HTML, CSS, JavaScript, TypeScript, JSON, C#, SQL Server, and big knowledge with 
 
 ## Hobbies
 
-🏆 Fighting
-
-It is my favorite i have 5 gold medals 🥇🥇🥇🥇🥇 
-
-
 🎓 Learning 
 
 👨‍🎓 Teaching
@@ -27,3 +22,7 @@ It is my favorite i have 5 gold medals 🥇🥇🥇🥇🥇
 🤔 Thinking
 
 ⚡️ Doing
+
+🏆 Fighting
+
+It is my favorite i have 5 gold medals 🥇🥇🥇🥇🥇 
