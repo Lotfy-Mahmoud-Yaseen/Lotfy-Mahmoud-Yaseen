@@ -20,12 +20,10 @@ HTML, CSS, JavaScript, TypeScript, JSON, C#, SQL Server, and big knowledge with 
 It is my favorite i have 5 gold medals 🥇🥇🥇🥇🥇 
 
 
-🧠 Learning new technologies
+🎓 Learning 
 
 👨‍🎓 Teaching
 
-🤔 Thinking about new project ideas
+🤔 Thinking
 
-⚡️ Doing my Graduation Project 🎓
-
-
+⚡️ Doing
