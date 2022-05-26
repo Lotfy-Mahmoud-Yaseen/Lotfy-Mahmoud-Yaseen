@@ -25,4 +25,7 @@ HTML, CSS, JavaScript, TypeScript, JSON, C#, SQL Server, and big knowledge with 
 
 🏆 Fighting
 
-It is my favorite i have 5 gold medals 🥇🥇🥇🥇🥇 
+It is my favorite i have 5 gold medals 🥇🥇🥇🥇🥇
+I don`t fight for Medals I fight like a man.
+what I believe in is:
+Each man has to fight.
