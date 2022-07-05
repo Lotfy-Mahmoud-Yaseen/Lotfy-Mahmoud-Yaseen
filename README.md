@@ -26,7 +26,7 @@ Big knowledge with Software engineering concepts like, Algorithms, Data Structur
 
 🏆 Fighting
 
-It is my favorite i have 5 gold medals 🥇🥇🥇🥇🥇
+It is my favorite 🥇🥇🥇🥇🥇
 I don`t fight for Medals I fight like a man.
 
 what I believe in is:
