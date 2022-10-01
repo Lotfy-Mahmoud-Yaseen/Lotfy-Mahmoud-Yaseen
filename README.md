@@ -4,7 +4,7 @@
 My name is Lotfy Mahmoud . And I'm a Cybersecurity Fighter, and Software Development engineer too love to programming. And learning new technologies and teaching others.
 
 ## 🛠 Skills as Security Fighter
-CCNA, MCSA, AWS, Security+, Pentest+, CEH, Python, SQL
+CCNA, MCSA, AWS, CEH, OSCP, Python, SQL
 
 ## 🛠 Other Skills
 HTML, CSS, JavaScript, TypeScript, JSON, C#, SQL Server.<br>
