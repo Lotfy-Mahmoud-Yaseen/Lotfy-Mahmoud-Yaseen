@@ -1,11 +1,10 @@
 # Hi There 👋
 
 ## 🚀 About Me
-My name is Lotfy Mahmoud .
-I'm a Cybersecurity Fighter, and Software Development engineer too love to programming. And learning new technologies and teaching others.
+My name is Lotfy Mahmoud.
 
-## 🛠 Skills as Security Fighter
-CCNA, MCSA, AWS, CEH, OSCP, Python, SQL
+
+## 🛠 Skills as Security 
 
 ## 🛠 Other Skills
 HTML, CSS, JavaScript, TypeScript, JSON, C#, SQL Server.<br>
@@ -28,7 +27,7 @@ Big knowledge with Software engineering concepts like, Algorithms, Data Structur
 🏆 Fighting
 
 It is my favorite 🥇🥇🥇🥇🥇
-I don`t fight for Medals I fight like a man.
+I don`t fight for Medals I am fighting as a man.
 
 what I believe in is:
 Each man has to fight.
